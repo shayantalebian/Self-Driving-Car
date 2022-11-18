@@ -8,12 +8,12 @@ This is self-driving car simulation created with JavaScript and no libraries at 
 
 ## Used technologies
 
--Car pyhsics
--Road generation
--Sensors
--Collisions
--Neraul network
--Genetic algorithms
+- Car pyhsics
+- Road generation
+- Sensors
+- Collisions
+- Neraul network
+- Genetic algorithms
 
 ### Copyright ©
 
